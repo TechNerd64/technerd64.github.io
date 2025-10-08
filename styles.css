@@ -5,12 +5,11 @@ body {
     color: white;
 
 }
-.wrapper,
-.site-content,
 .page-content {
-    background-color: transparent !important;
+    background: transparent !important;
 }
-.main-container {
-    background: rgb(38, 38, 38);
-    /* Set the background to match your body */
+
+/* Also target the main site wrapper, as Minima uses this heavily */
+.wrapper {
+    background: transparent !important;
 }
