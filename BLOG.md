@@ -4,4 +4,4 @@ title: "Blog"
 permalink: /blog
 ---
 
-Hello everyone!  This is a test to make sure I'm using Gighub pages properly.
+Hello everyone!  This is a test to make sure I'm using Github pages properly.
