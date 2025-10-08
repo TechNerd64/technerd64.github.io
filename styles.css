@@ -5,11 +5,18 @@ body {
     color: white;
 
 }
-.page-content {
-    background: transparent !important;
+/* Minima Theme Fix: Target the specific main container */
+.site-content {
+    background-color: rgb(38, 38, 38) !important;
 }
 
-/* Also target the main site wrapper, as Minima uses this heavily */
+/* Ensure the main element also takes the color */
+main {
+    background-color: rgb(38, 38, 38) !important;
+}
+
+/* Also ensure your previously added transparent rules are still there: */
+.page-content,
 .wrapper {
     background: transparent !important;
 }
