@@ -10,3 +10,7 @@ body {
 .page-content {
     background-color: transparent !important;
 }
+.main-container {
+    background: rgb(38, 38, 38);
+    /* Set the background to match your body */
+}
