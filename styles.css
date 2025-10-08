@@ -1,22 +1,20 @@
+/* Sets the default background and text color */
 body {
-    margin: 0;
-    background: rgb(38, 38, 38);
-    text-align: center;
-    color: white;
-
-}
-/* Minima Theme Fix: Target the specific main container */
-.site-content {
-    background-color: rgb(38, 38, 38) !important;
+    background-color: rgb(38, 38, 38);
+    color: #e0e0e0; /* A light gray is often easier on the eyes than pure white */
 }
 
-/* Ensure the main element also takes the color */
-main {
-    background-color: rgb(38, 38, 38) !important;
+/* Ensure all headers are a light color */
+h1, h2, h3, h4, h5, h6 {
+    color: #f5f5f5; /* A very light gray, close to white */
 }
 
-/* Also ensure your previously added transparent rules are still there: */
-.page-content,
-.wrapper {
-    background: transparent !important;
+/* Style links to be visible on a dark background */
+a {
+    color: #4fc3f7; /* A bright, light blue for good contrast */
+}
+
+/* Change link color on hover for better user experience */
+a:hover {
+    color: #81d4fa; /* A slightly lighter blue for the hover effect */
 }
