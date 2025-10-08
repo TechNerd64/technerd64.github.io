@@ -1,7 +1,7 @@
 /* Sets the default background and text color */
 body {
-    background-color: rgb(38, 38, 38);
-    color: #e0e0e0; /* A light gray is often easier on the eyes than pure white */
+    background-color: rgb(38, 38, 38); !important; /* Dark background color */
+    color: #e0e0e0; !important; /* Light text color for contrast */
 }
 
 /* Ensure all headers are a light color */
