@@ -1,0 +1,11 @@
+# 1. Required setting to apply a theme
+
+remote_theme: "jekyll/minima@1e8a445"
+minima:
+ skin: dark
+
+
+# 2. Recommended basic site metadata
+title: TechNerd64's Blog
+description: A personal blog about my current projects and interests.  I cover everything from consumer tech to programming and game development.
+url: "https://technerd64.github.io" # the base hostname & protocol for your site
