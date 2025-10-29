@@ -7,7 +7,7 @@ title: "A Chromebook Story"
 I used to have a 2-in-1 Samsung touchscreen chromebook.  For 4 years, this was my main workstation.  Every scratch project I made, video I watched, etc. was done on this device, and all of a sudden the metal hinge snapped out of the frame.  
 
 The hinge appeares to have broke the plastic frame and popped out while trying to open the screen.  When I tried reinserting the hinge into the screen it cracked the screen.
-![Cracked screen]({{ site.baseurl }}/assets/10-12-25/screen.jpg){: width="200"}
+<img src="blog\assets\10-12-25\screen.jpg" width="200"/>
 
 So, after around 4 months of it just sitting around, I decided I'd try opening it up for fun (yes, for FUN).
 
