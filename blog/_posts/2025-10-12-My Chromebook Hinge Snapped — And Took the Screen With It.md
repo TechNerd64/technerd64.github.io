@@ -15,7 +15,7 @@ I took off the back cover which proved to be harder then expected due to both hi
 <img src="/assets/10-12-25/bottom_plate.jpg" width="150"/>
 
 Then I got to the main board and battery.
-<img src="/assets/10-12-25/inside.jpg" width="200"/>
+<img src="/blog/assets/10-12-25/inside.jpg" width="200"/>
 
 Now you might notice that there is no screen attatched.  I found that I could just detach the screen from the chromebook board without impairing the laptop working.  I assumed that the laptop would check for missing components and not boot without them, but I was mistaken.
 
