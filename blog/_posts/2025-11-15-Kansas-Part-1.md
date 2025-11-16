@@ -12,7 +12,7 @@ One of the first stops we made was in Oklahoma at a Braums.
 <img src="/blog/assets/11-15-25/Braums.JPG" width="200"/>
 
 Our next stops were more unique like the dog stop.
-<img src="/blog/assets/11-15-25/Dog1.JPG" width="200"/>  <img src="/blog/assets/11-15-25/Dog2.JPG" width="200"/>
+<img src="/blog/assets/11-15-25/Dog1.JPG" width="200"/>  <img src="/blog/assets/11-15-25/dog2.JPG" width="200"/>
 This was at a gas station in OK. which my mom found using Roadside America.
 
 Lastly, we found a bizzare standing truck, yes, STANDING!  Now it's not like you think, the truck is sitting vertically like a tower.
