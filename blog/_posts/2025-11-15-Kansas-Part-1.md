@@ -21,4 +21,6 @@ Lastly, we found a bizzare standing truck, yes, STANDING!  Now it's not like you
 But the sights we saw the most on our drive up were... drum, roll, please... COWS and WIND TURBINES.  I know right, very exciting!.
 <img src="/blog/assets/11-15-25/cows.JPG" width="200"/>  <img src="/blog/assets/11-15-25/turbines.JPG" width="200"/>
 
-This raps up our drive up.  Hopefully, I remember to make more posts about the other days, but nevertheless, Thanks for Reading!
+This raps up our drive up.  Hopefully, I remember to make more posts about the other days, but nevertheless, Thanks for Reading!  
+
+EDIT: I completely forgot to make more posts on Nationals
